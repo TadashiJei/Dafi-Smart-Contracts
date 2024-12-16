@@ -108,7 +108,7 @@ TODO: identify investor market size
 
 The smart contracts for this project are located in the `contracts/` directory. See `guide.md` for more information on the smart contracts.
 
-## AI Expanded Features:
+## Expanded Features:
 
 ### 1. DeFi to Exchange Agricultural Assets
 
