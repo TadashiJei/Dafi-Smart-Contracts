@@ -1,5 +1,0 @@
-// client/src/web3.js // To configure web3
-import Web3 from 'web3';
-
-const web3 = new Web3(Web3.givenProvider || "http://localhost:7545");
-export default web3;
